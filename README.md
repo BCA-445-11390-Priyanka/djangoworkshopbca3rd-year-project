@@ -1,1 +1,1 @@
-# djangoworkshopbca3rd-year-project
+# school management system bca3rd-year-project
